@@ -5,5 +5,3 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ng build
 
 ng deploy --base-href=angular-test
-
-used to deploy changes to ghpages
